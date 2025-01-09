@@ -72,5 +72,5 @@ To create your own map, ensure the file meets the following requirements:
 
 This project was developed by:
 
-- **Delfina Parada**: ([dparada](https://profile.intra.42.fr/users/dparada))
-- **Tobias Anselmo** ([tanselmo](https://profile.intra.42.fr/users/tanselmo))
+- **Delfina Parada**: [dparada](https://profile.intra.42.fr/users/dparada)
+- **Tobias Anselmo**: [tanselmo](https://profile.intra.42.fr/users/tanselmo)
